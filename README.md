@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+            src="https://github-profile-trophy.vercel.app/?username=NohemiCampos" alt="NohemiCampos" /></a> </p>
+
 <!--
 **NohemiCampos/NohemiCampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=NohemiCampos&theme=dracula&hide_border=true"
+            alt="Status graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=NohemiCampos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true"
+        height="180" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NohemiCampos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&count_private=true"
+        height="180" alt="languages graph" />
