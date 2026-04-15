@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
@@ -15,8 +15,10 @@ jobs:
           github_user_name: NohemiCampos
           outputs: |
             dist/snake.svg?palette=github-dark
+            dist/snake-dark.svg?palette=github-dark
 
-      - uses: Platane/snk@v3
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
