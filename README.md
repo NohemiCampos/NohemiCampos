@@ -15,7 +15,7 @@
 
 ###
 
-<img align="right" height="150" src="(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGh6NWcyNmx4b28yYnZhN3o0YXpsbjRxd2V3MWwwNzJ6bG1vZTMyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JQpH25Y6TrRQwtF0KY/giphy.gif)"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
