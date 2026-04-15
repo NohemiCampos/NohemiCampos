@@ -14,7 +14,6 @@ jobs:
         with:
           github_user_name: NohemiCampos
           outputs: |
-            outputs: |
             dist/snake-dark.svg?color_snake=#8b0000&color_dots=#0d0d0d,#2a0a0a,#5a0f0f,#8b0000,#ff4d4d
 
       - name: Push to output branch
