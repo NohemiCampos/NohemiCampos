@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="35" />
   </a>
 
-  <a href="https://facebook.com/nohemycampos" target="_blank">
+  <a href="https://facebook.com/NohemyCampos" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="35" />
   </a>
 
